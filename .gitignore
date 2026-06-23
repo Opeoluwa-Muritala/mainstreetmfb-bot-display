@@ -1,5 +1,4 @@
 # environment variables
-.env
 
 # python cache
 __pycache__/
@@ -13,3 +12,5 @@ chroma_db/
 
 # OS files
 .DS_Store
+config.bat
+node_modules
